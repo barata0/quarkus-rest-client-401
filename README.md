@@ -1,7 +1,7 @@
 # Smallrye Rest Client Quarkus Error
 
 ## Description
-Reproduce quarkus-smallrye-rest-client Error
+quarkus-smallrye-rest-client throw wrong response error code - always throw 500 wvwn if the response is 401, 404, etc...
 
 ## How to
 
